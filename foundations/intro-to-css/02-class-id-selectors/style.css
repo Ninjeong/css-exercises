@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.number {
+    background-color: rgb(255, 150, 150);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.number.unique {
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: rgb(150, 255, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
